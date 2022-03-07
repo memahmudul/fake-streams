@@ -1,0 +1,42 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "my stream 2",
+      "description": "this is another description",
+      "id": 2
+    },
+    {
+      "title": "this is my stream",
+      "description": "a good description",
+      "userId": "111493168488805821467",
+      "id": 3
+    },
+    {
+      "title": "tyhrty",
+      "description": "rutyuytu",
+      "userId": "111493168488805821467",
+      "id": 4
+    },
+    {
+      "title": "ttttt",
+      "description": "tttt",
+      "userId": "111493168488805821467",
+      "id": 5
+    },
+    {
+      "title": "2222",
+      "description": "222",
+      "id": 8
+    },
+    {
+      "title": "4444",
+      "description": "444",
+      "id": 9
+    }
+  ]
+}
